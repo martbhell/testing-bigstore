@@ -1,0 +1,2 @@
+*.efi filter=bigstore
+*.kpxe filter=bigstore
